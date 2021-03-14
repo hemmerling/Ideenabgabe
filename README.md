@@ -9,7 +9,7 @@ Klick to start!
 ---
 ## Teammitglieder
 
-**Rolf Hemmerling** - *Ideengeber:in & Entwicker:in* & *Designer:in* - [GitHub "hemmerling"](https://www.github.com/hemmerling/)
+**Rolf Hemmerling** - *Ideengeber:in & Entwicker:in* & *Designer:in* - [GitHub "hemmerling"](http://www.github.com/hemmerling/)
 
 ---
 ## Problemstellung 
@@ -30,7 +30,12 @@ Was ist ein MUD:
 [![Wikipedia "Multi User Dungeon"]](http://de.wikipedia.org/wiki/Multi_User_Dungeon)
 Ein Multi User Dungeon (Abkürzung: MUD, selten auch Multi-User Dimension, Multi-User Domain oder Multi-User Dialog) ist eine üblicherweise textbasierte virtuelle Welt, in der mehrere Spieler (Mudder oder MudHeads) gleichzeitig mittels Computern spielen. MUDs verbinden Eigenschaften von Rollenspielen, Hack and Slays, Player versus Player-Kämpfen, interaktiven Fiktionen und Online-Chats miteinander. Viele MUDs gehören zu den Online-Rollenspielen
 
-Dazu verwende ich ein in der Programmiersprache Python geschriebenes Open-Source-Framework [![Evennia - The Python MU* Development Library]](http://www.evennia.com/). Vor Beginn des Hackathons hatte ich zwar das Spiel lokal auf meinem Software-Entwicklungsrechner installiert, habe auch ausreichende praktische Kenntnisse in der Programmiersprache Python, aber die 48h Zeit im Hackathon gingen natürlich im Wesentlichen drauf für die Einarbeitung in das Framework, durch Durcharbeiten von 2 Tutorials. Der tatsächlich entstandene Code für das eigentliche Projekt ist also naturgemäß gering geblieben.
+Dazu verwende ich ein in der Programmiersprache Python geschriebenes Open-Source-Framework [![Evennia - The Python MU* Development Library]](http://www.evennia.com/). Vor Beginn des Hackathons hatte ich zwar das Spiel lokal auf meinem Software-Entwicklungsrechner installiert, habe auch ausreichende praktische Kenntnisse in der Programmiersprache Python um gleich anzufangen, aber die 48h Zeit im Hackathon gingen natürlich im Wesentlichen drauf für die Einarbeitung in das Framework, durch Durcharbeiten von 2 Tutorials. Der tatsächlich entstandene Code für das eigentliche Projekt ist also naturgemäß gering geblieben.
+
+Das nächste Ziel nach dem Hackathon ist, die Gamification-Anwendung auf eine (kostenlose) Online-Plattform mit eigener Web-Adresse zu bringen, 
+**Online-Plattform**, wo die Gamification-Anwendung gespielt werden kann. Dies ist grundsätzlich möglich, weil das spezielle MUD-Framework eine fertige Web-Oberfläche für jedes selbsterstellte MUD-Anwendung mitbringt, d.h. es kann und muss vom Benutzer und Administrator im Internet-Browser aufgerufen werden. Es ist nicht notwendig, eine eigene Internet-Domain zu nutzen, bei vielen kostenlosen Online-Plattform Angeboten gibts halt eine Third-Level-Domain oder ein Unterverzeichnis auf einem öffentlichen Server. Das reicht für meine Zwecke, Schaffung einer Demo-Plattform, auch aus. Die Zahl der kostenlos nutzbaren Online-Plattformen, wo Python und Standard-Linux Tools wie ein C/C++ Compiler zur Verfügung stehen, ist allerding begrenzt.
+
+Ich werde versuchen, auf einer mir zur Verfügung stehenden Online-Plattform für Python-Anwendungen die MUD-Software zu installieren. Wenn's klappt, wäre die Gamification-Plattform dauerhaft ( kostenlos für mich und die Spieler ) nutzbar.
 
 ---
 ## Code Repository
