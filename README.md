@@ -3,13 +3,13 @@
 ---
 ## Pitchvideo
 Klick to start!
-[![Challenge One Health MUD](https://challengeonehealth.com/wp-content/uploads/2020/12/Challenge-One-Health-Hackathon-Online-1-scaled.jpg)](https://www.youtube.com/channel/UCmionNDYdoE1AEB-3NVVZeQ)
+[![Challenge One Health MUD](https://github.com/hemmerling/challengeonehealthmud/blob/master/challengeonehealthmud.jpg)](https://www.youtube.com/channel/UCmionNDYdoE1AEB-3NVVZeQ)
 Hier bitte ein Pitchvideo hinterlegen, ca. 3 min Länge. 
 
 ---
 ## Teammitglieder
 
-* **Rolf Hemmerling** - *Ideengeber:in & Entwicker:in* & *Designer:in* - [project name](https://github.com/projectname)
+* **Rolf Hemmerling** - *Ideengeber:in & Entwicker:in* & *Designer:in* - [challengeonehealthmud](https://github.com/hemmerling/challengeonehealthmud/)
 
 ---
 ## Problemstellung 
