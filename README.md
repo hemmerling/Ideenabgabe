@@ -44,7 +44,7 @@ Das nächste Ziel nach dem Hackathon ist, die Gamification-Anwendung auf eine (k
 
 Ich werde versuchen, auf einer mir zur Verfügung stehenden Online-Plattform für Python-Anwendungen die MUD-Software zu installieren. Wenn's klappt, wäre die Gamification-Plattform dauerhaft ( kostenlos für mich und die Benutzer der MUD-Anwendung ) nutzbar.
 
-Wenn die MUD-Anwendung auf einer Online-Plattform tatsächlich laufen sollte, wäre sie erstmal in erster Hinsicht für Software-Entwickler interessant, die sich für das MUD-Framework interessieren und durch Benutzung meiner MUD-Anwendung lernen wollen, wie sie selber ihre eigene MUD-Anwendung zum laufen bringen. Ein nachweisbarer Kundennutzen für die eigentliche Zielgruppe, Menschen die bereit sind sich spielerisch mit der Vorsorge und Verhalten bei Pandemien zu beschäftigen, ist davon leider noch weit entfernt. Da die MUD-Anwendung als OpenSource auf GitHub gehostet wird,  können andere Entwickler einen Fork erstellen und selber auf eigene Faust die Idee und den Code  
+Wenn die MUD-Anwendung auf einer Online-Plattform tatsächlich laufen sollte, wäre sie erstmal in erster Hinsicht für Software-Entwickler interessant, die sich für das MUD-Framework interessieren und durch Benutzung meiner MUD-Anwendung lernen wollen, wie sie selber ihre eigene MUD-Anwendung zum laufen bringen. Ein nachweisbarer Kundennutzen für die eigentliche Zielgruppe, Menschen die bereit sind sich spielerisch mit der Vorsorge und Verhalten bei Pandemien zu beschäftigen, ist davon leider noch weit entfernt. Da die MUD-Anwendung als OpenSource auf GitHub gehostet wird,  können andere Entwickler einen Fork erstellen und selber auf eigene Faust die Idee und den Code weiterenteickeln.
 
 ---
 ## Code Repository
