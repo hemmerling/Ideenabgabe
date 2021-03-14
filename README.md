@@ -3,7 +3,7 @@
 ---
 ## Pitchvideo
 Klick to start!
-[![Challenge One Health MUD](http://github.com/hemmerling/challengeonehealthmud/blob/master/challengeonehealthmud.jpg)](https://www.youtube.com/channel/UCmionNDYdoE1AEB-3NVVZeQ)
+[[Challenge One Health MUD](http://github.com/hemmerling/challengeonehealthmud/blob/master/challengeonehealthmud.jpg)](https://www.youtube.com/channel/UCmionNDYdoE1AEB-3NVVZeQ)
 Hier bitte ein Pitchvideo hinterlegen, ca. 3 min Länge. 
 
 ---
