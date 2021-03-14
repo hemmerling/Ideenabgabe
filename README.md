@@ -1,8 +1,18 @@
 # 3_team5 - Challenge One Health MUD ( Challenge One Health Multi User Dungeon )
 
+## Hintergrund
+
+Dieses GitHub-Repository entstand im Rahmen des Challenge One Health Hackathons 2021-03-12 - 2021-03-14.
+
+[Challenge One Health](http://challengeonehealth.com/)
+
+[Challenge One Health Hackathons](http://challengeonehealth.com/hackathon/)
+
+[GitHub "Challenge One Health"](http://www.github.com/ChallengeOneHealth/)
+
 ---
 ## Pitchvideo
-Klick to start!
+Graphik anklicken um Video zu starten!
 
 [![Challenge One Health MUD](challengeonehealthmud.jpg)](http://www.youtube.com/channel/UCmionNDYdoE1AEB-3NVVZeQ)
 
