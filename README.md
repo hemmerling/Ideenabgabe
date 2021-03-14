@@ -29,8 +29,8 @@ Häufig wird nichtstaatliche Öffentlichkeitarbeit zu brennenden sozialen, wirts
 Mein geplante Gamafication-Anwendung ist der "Challenge One Health MUD " ( "Challenge One Health Multi User Dungeon" ).
 
 Was ist ein MUD:
-[Wikipedia "Multi User Dungeon"](http://de.wikipedia.org/wiki/Multi_User_Dungeon)
-Ein Multi User Dungeon (Abkürzung: MUD, selten auch Multi-User Dimension, Multi-User Domain oder Multi-User Dialog) ist eine üblicherweise textbasierte virtuelle Welt, in der mehrere Spieler (Mudder oder MudHeads) gleichzeitig mittels Computern spielen. MUDs verbinden Eigenschaften von gemacht Rollenspielen, Hack and Slays, Player versus Player-Kämpfen, interaktiven Fiktionen und Online-Chats miteinander. Viele MUDs gehören zu den Online-Rollenspielen.
+
+[Wikipedia "Multi User Dungeon"](http://de.wikipedia.org/wiki/Multi_User_Dungeon): Ein Multi User Dungeon (Abkürzung: MUD, selten auch Multi-User Dimension, Multi-User Domain oder Multi-User Dialog) ist eine üblicherweise textbasierte virtuelle Welt, in der mehrere Spieler (Mudder oder MudHeads) gleichzeitig mittels Computern spielen. MUDs verbinden Eigenschaften von gemacht Rollenspielen, Hack and Slays, Player versus Player-Kämpfen, interaktiven Fiktionen und Online-Chats miteinander. Viele MUDs gehören zu den Online-Rollenspielen.
 
 Konkret besteht so ein MUD in seiner reinen ursprünglichen Form aus einer Reihe von Räumen, zwischen denen man umhergehen kann. Ein Raum muss also mindestens einen Eingang haben, und falls er keine Sackgasse darstellen soll, auch mindestens einen Ausgang. Also zwei "Türen". In den Räumen kann der MUD-Benutzer mit anderen MUD-Nutzern, Gegenständen und sogenannten "Non-Player-Characters" ( NPC ) interagieren.
 
