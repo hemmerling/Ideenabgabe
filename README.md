@@ -18,24 +18,28 @@ Thema #1 des Challenge One Health Hackathons: "Wie kann das öffentliche Gesundh
 
 Menschen erfahren von Pandemien nur als Betroffene durch eigene Krankheit oder die von Verwandten / Bekannten ( bei der aktuellen Corona-Pandemie ab 2020-03 zum Zeitpunkt des Hackathons 2021-03 sehr selten bis gar nicht, da ja fast niemand bislang erkrankt oder gar gestorben ist ), sowie durch häufig als Willkür und unsinnig empfundene staatliche Maßnahmen und Einschränkungen. 
 
-Eine positive vorbeugende Beschäftigung mit dem Thema Pandemie, vergleichbar "Zähneputzen" für das Thema "Gesunde Zähne, Vermeiden von Zahnarztbehandlungen", findet bislang kaum statt.
+Eine positive nichtstaatliche vorbeugende odHäufigdurchd Öffentlichkeitarbeit er eine Pandemie begleitetende Beschäftigung mit dem Thema Pandemie, vergleichbar "Zähneputzen" für das Thema "Gesunde Zähne, Vermeiden von Zahnarztbehandlungen", findet bislang kaum statt.
 
 --- 
 ## Lösung 
-Durch Gamification, Anbieten eines unterhaltsamen ( Online- ) Computer-Spiels, das Menschen für das Thema sensibilisiert, ihr im Spiel gezeigtes Verhalten bewertet und Lösungsmöglichkeiten für besseres Verhalten in Zeiten einer Pandemie aufzeigt.
+Öffentlichkeitsarbeit machen. Mein Ansatz: Gamification, Anbieten eines unterhaltsamen ( Online- ) Computer-Spiels, das Menschen für das Thema sensibilisiert, ihr im Spiel gezeigtes Verhalten bewertet und Lösungsmöglichkeiten für besseres Verhalten in Zeiten einer Pandemie aufzeigt.
+
+Häufig wird nichtstaatliche Öffentlichkeitarbeit zu brennenden sozialen, wirtschaftlichen und ökologischen Problemen durch unabhängige, nichtstaatliche Organisationen ( NGOs - Non-Governmental Organisation ) gemacht. Dabei kann in diesem speziellen Fall auch ich als Einzelperson in die Rolle einer NGO schlüpfen, "Dank" dem Internet und der daraus eventuell möglichen Sichtbarkeit für alle Internet-Nutzer.
 
 Mein geplante Gamafication-Anwendung ist der "Challenge One Health MUD " ( "Challenge One Health Multi User Dungeon" ).
 
 Was ist ein MUD:
-[![Wikipedia "Multi User Dungeon"]](http://de.wikipedia.org/wiki/Multi_User_Dungeon)
-Ein Multi User Dungeon (Abkürzung: MUD, selten auch Multi-User Dimension, Multi-User Domain oder Multi-User Dialog) ist eine üblicherweise textbasierte virtuelle Welt, in der mehrere Spieler (Mudder oder MudHeads) gleichzeitig mittels Computern spielen. MUDs verbinden Eigenschaften von Rollenspielen, Hack and Slays, Player versus Player-Kämpfen, interaktiven Fiktionen und Online-Chats miteinander. Viele MUDs gehören zu den Online-Rollenspielen
+[Wikipedia "Multi User Dungeon"](http://de.wikipedia.org/wiki/Multi_User_Dungeon)
+Ein Multi User Dungeon (Abkürzung: MUD, selten auch Multi-User Dimension, Multi-User Domain oder Multi-User Dialog) ist eine üblicherweise textbasierte virtuelle Welt, in der mehrere Spieler (Mudder oder MudHeads) gleichzeitig mittels Computern spielen. MUDs verbinden Eigenschaften von gemacht Rollenspielen, Hack and Slays, Player versus Player-Kämpfen, interaktiven Fiktionen und Online-Chats miteinander. Viele MUDs gehören zu den Online-Rollenspielen
 
 Dazu verwende ich ein in der Programmiersprache Python geschriebenes Open-Source-Framework [![Evennia - The Python MU* Development Library]](http://www.evennia.com/). Vor Beginn des Hackathons hatte ich zwar das Spiel lokal auf meinem Software-Entwicklungsrechner installiert, habe auch ausreichende praktische Kenntnisse in der Programmiersprache Python um gleich anzufangen, aber die 48h Zeit im Hackathon gingen natürlich im Wesentlichen drauf für die Einarbeitung in das Framework, durch Durcharbeiten von 2 Tutorials. Der tatsächlich entstandene Code für das eigentliche Projekt ist also naturgemäß gering geblieben.
 
 Das nächste Ziel nach dem Hackathon ist, die Gamification-Anwendung auf eine (kostenlose) Online-Plattform mit eigener Web-Adresse zu bringen, 
-**Online-Plattform**, wo die Gamification-Anwendung gespielt werden kann. Dies ist grundsätzlich möglich, weil das spezielle MUD-Framework eine fertige Web-Oberfläche für jedes selbsterstellte MUD-Anwendung mitbringt, d.h. es kann und muss vom Benutzer und Administrator im Internet-Browser aufgerufen werden. Es ist nicht notwendig, eine eigene Internet-Domain zu nutzen, bei vielen kostenlosen Online-Plattform Angeboten gibts halt eine Third-Level-Domain oder ein Unterverzeichnis auf einem öffentlichen Server. Das reicht für meine Zwecke, Schaffung einer Demo-Plattform, auch aus. Die Zahl der kostenlos nutzbaren Online-Plattformen, wo Python und Standard-Linux Tools wie ein C/C++ Compiler zur Verfügung stehen, ist allerding begrenzt.
+**Online-Plattform**, wo die Gamification-Anwendung gespielt werden kann. Dies ist grundsätzlich möglich, weil das spezielle MUD-Framework eine fertige Web-Oberfläche für jedes selbsterstellte MUD-Anwendung mitbringt, d.h. die MUD-Anwendung kann und muss vom Benutzer und Administrator im Internet-Browser aufgerufen werden. Es ist nicht notwendig, eine eigene Internet-Domain zu nutzen, bei vielen kostenlosen Online-Plattform Angeboten gibts halt eine Third-Level-Domain oder ein Unterverzeichnis auf einem öffentlichen Server. Das reicht für meine Zwecke, Schaffung einer Demo-Plattform, auch aus. Die Zahl der kostenlos nutzbaren Online-Plattformen, wo Python und Standard-Linux Tools wie ein C/C++ Compiler zur Verfügung stehen, ist allerding begrenzt, im Vergleich z.B. zu Plattformen für PHP-Anwendungen.
 
 Ich werde versuchen, auf einer mir zur Verfügung stehenden Online-Plattform für Python-Anwendungen die MUD-Software zu installieren. Wenn's klappt, wäre die Gamification-Plattform dauerhaft ( kostenlos für mich und die Spieler ) nutzbar.
+
+Wenn die MUD-Anwendung auf einer Online-Plattform tatsächlich laufen sollte, wäre sie erstmal in erster Hinsicht für Software-Entwickler interessant, die sich für das MUD-Framework interessieren und durch Benutzung meiner MUD-Anwendung lernen wollen, wie sie selber ihre eigene MUD-Anwendung zum laufen bringen. Ein nachweisbarer Kundennutzen für die eigentliche Zielgruppe, Menschen die bereit sind sich spielerisch mit der Vorsorge und Verhalten bei Pandemien zu beschäftigen, ist davon leider noch weit entfernt. Da die MUD-Anwendung als OpenSource auf GitHub gehostet wird,  können andere Entwickler einen Fork erstellen und selber auf eigene Faust die Idee und den Code  
 
 ---
 ## Code Repository
@@ -54,6 +58,6 @@ MIT Lizenz [LICENSE.md](LICENSE.md)
 
 ---
 ## Was fehlt eurem Projekt noch?
-* **Zeit** um sich in das MUD Framework einzuarbeiten, um dann wirklich eine vorführbare Gamification-Anwendung zu haben
+* **Zeit** um sich in das MUD Framework einzuarbeiten, um dann wirklich eine vorführbare Gamification-Anwendung mit erkennbarem Kundennutzen zu haben
 * **Online-Plattform**, wo die Gamification-Anwendung gespielt werden kann. Ich werde versuchen, auf einer mir zur Verfügung stehenden Online-Plattform für Python-Anwendungen die MUD-Software zu installieren. Wenn's klappt, wäre die Gamification-Plattform dauerhaft ( kostenlos für mich und die Spieler ) nutzbar.
 ---
