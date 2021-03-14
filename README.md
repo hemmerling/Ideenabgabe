@@ -30,7 +30,7 @@ Thema #1 des Challenge One Health Hackathons: "Wie kann das öffentliche Gesundh
 
 Menschen erfahren von Pandemien nur als Betroffene durch eigene Krankheit oder die von Verwandten / Bekannten ( bei der aktuellen Corona-Pandemie ab 2020-03 zum Zeitpunkt des Hackathons 2021-03 sehr selten bis gar nicht, da ja fast niemand bislang erkrankt oder gar gestorben ist ), sowie durch häufig als Willkür und unsinnig empfundene staatliche Maßnahmen und Einschränkungen. 
 
-Eine positive vorbeugende oder eine Pandemie begeleitende Beschäftigung mit dem Thema Pandemie, vergleichbar "Zähneputzen" für das Thema "Gesunde Zähne behalten, Vermeiden von Zahnarztbehandlungen", findet bislang kaum statt.
+Eine positive vorbeugende oder eine Pandemie begleitende Beschäftigung mit dem Thema Pandemie, vergleichbar "Zähneputzen" für das Thema "Gesunde Zähne behalten, Vermeiden von Zahnarztbehandlungen", findet bislang kaum statt.
 
 --- 
 ## Lösung 
