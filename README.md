@@ -32,7 +32,7 @@ Eine positive vorbeugende oder eine Pandemie begeleitende Beschäftigung mit dem
 
 --- 
 ## Lösung 
-Öffentlichkeitsarbeit machen. Mein Ansatz: Gamification, Anbieten einer unterhaltsamen ( Online- ) Computer-Anwendung, die Menschen für das Thema sensibilisiert, sie ihr im Spiel gezeigtes Verhalten selber am Spielerfolg bewerten könnnen und Lösungsmöglichkeiten für besseres Verhalten in Zeiten einer Pandemie aufzeigt. Kein "Zeigefinger-Spiel" mit stark belehrendem Charakter!
+Öffentlichkeitsarbeit machen. Mein Ansatz: Gamification, Anbieten einer unterhaltsamen ( Online- ) Computer-Anwendung, die Menschen für das Thema sensibilisiert. Die Benutzer der Computer-Anwendung können ihr im Spiel gezeigtes Verhalten selber am Spielerfolg bewerten und es werden Lösungsmöglichkeiten für besseres Verhalten in Zeiten einer Pandemie sowie vorbeugendes Verhalten aufgezeigt. Kein "Zeigefinger-Spiel" mit stark belehrendem Charakter!
 
 Häufig wird nichtstaatliche Öffentlichkeitarbeit zu brennenden sozialen, wirtschaftlichen und ökologischen Problemen durch unabhängige, nichtstaatliche Organisationen ( NGOs - Non-Governmental Organisation ) gemacht. Dabei kann in diesem speziellen Fall auch ich als Einzelperson in die Rolle einer NGO schlüpfen, "Dank" dem Internet und der daraus eventuell möglichen Sichtbarkeit für alle Internet-Nutzer.
 
