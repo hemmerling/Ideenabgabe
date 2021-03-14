@@ -6,7 +6,7 @@ Dieses GitHub-Repository entstand im Rahmen des Challenge One Health Hackathons 
 
 [Challenge One Health](http://challengeonehealth.com/)
 
-[Challenge One Health Hackathons](http://challengeonehealth.com/hackathon/)
+[Challenge One Health Hackathon](http://challengeonehealth.com/hackathon/)
 
 [GitHub "Challenge One Health"](http://www.github.com/ChallengeOneHealth/)
 
