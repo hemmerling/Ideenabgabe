@@ -3,13 +3,13 @@
 ---
 ## Pitchvideo
 Klick to start!
-[![Challenge One Health MUD](https://github.com/hemmerling/challengeonehealthmud/blob/master/challengeonehealthmud.jpg)](https://www.youtube.com/channel/UCmionNDYdoE1AEB-3NVVZeQ)
+[![Challenge One Health MUD](http://github.com/hemmerling/challengeonehealthmud/blob/master/challengeonehealthmud.jpg)](https://www.youtube.com/channel/UCmionNDYdoE1AEB-3NVVZeQ)
 Hier bitte ein Pitchvideo hinterlegen, ca. 3 min Länge. 
 
 ---
 ## Teammitglieder
 
-* **Rolf Hemmerling** - *Ideengeber:in & Entwicker:in* & *Designer:in* - [challengeonehealthmud](https://github.com/hemmerling/challengeonehealthmud/)
+* **Rolf Hemmerling** - *Ideengeber:in & Entwicker:in* & *Designer:in* - [GitHub "hemmerling"](https://www.github.com/hemmerling/)
 
 ---
 ## Problemstellung 
@@ -22,6 +22,11 @@ Bitte beschreibe hier das Problem, welches ihr lösen wollt.
 Welche Lösung habt ihr für das Problem entwickelt?
 
 Hinweis: orientiert euch für die Beschreibung eurer Lösung gerne am [Business Model Canvas](https://www.existenzgruender.de/DE/Gruendung-vorbereiten/Businessplan/Business-Model-Canvas/inhalt.html) (geplante Zielgruppe, konkretes Nutzenversprechen etc.) und erzählt kurz, ob und wie ihr den One Health - Gedanken aufgreift. Dies könnte beispielsweise anhand einer branchenübergreifenden Kooperation oder über einen Ideentransfer aus anderen Branchen erfolgen. Dies erleichtert der Jury die Bewertung eurer Idee.
+
+---
+## Code Repository
+
+[GitHub "hemmerling/challengeonehealthmud/"](http://www.github.com/hemmerling/challengeonehealthmud/)
 
 ---
 ## Slack Channel
